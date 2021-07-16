@@ -23,16 +23,25 @@ public class PersonDAO {
         return people;
     }
 
-    public void save(Person person){
+    public void save(Person person) {
         person.setId(++peopleCount);
         people.add(person);
+    }
+
+    public void update(int id, Person updatedPerson) {
+        Person personToBeUpdated = show(id);
+        personToBeUpdated.setName(updatedPerson.getName());
+    }
+
+    public void delete(int id) {
+        people.removeIf(p -> p.getId() == id);
     }
 
     public Person show(int id) {
         Person person;
         for (int i = 0; i < people.size(); i++) {
             if (people.get(i).getId() == id)
-            return people.get(i);
+                return people.get(i);
         }
         return null;
     }
