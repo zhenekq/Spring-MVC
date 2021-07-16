@@ -23,6 +23,11 @@ public class PersonDAO {
         return people;
     }
 
+    public void save(Person person){
+        person.setId(++peopleCount);
+        people.add(person);
+    }
+
     public Person show(int id) {
         Person person;
         for (int i = 0; i < people.size(); i++) {
