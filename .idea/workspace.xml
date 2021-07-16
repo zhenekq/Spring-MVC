@@ -7,7 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0953c75b-1b97-4afa-aa92-0a69c9818fae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/controller/FirstController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/controller/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/controller/FirstController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/controller/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/goodbye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/second/exit.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +73,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626297571648</updated>
       <workItem from="1626297574442" duration="6436000" />
-      <workItem from="1626437749146" duration="3047000" />
+      <workItem from="1626437749146" duration="4923000" />
     </task>
     <task id="LOCAL-00001" summary="little get request with params">
       <created>1626440237291</created>
