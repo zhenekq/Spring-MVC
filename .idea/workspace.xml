@@ -7,20 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0953c75b-1b97-4afa-aa92-0a69c9818fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/PeopleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/controller/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/controller/PeopleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/dao/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/dao/PersonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/voznyit/dev/model/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/controller/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/controller/PeopleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/dao/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/dao/PersonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/show.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626297571648</updated>
       <workItem from="1626297574442" duration="6436000" />
-      <workItem from="1626437749146" duration="8932000" />
+      <workItem from="1626437749146" duration="10714000" />
     </task>
     <task id="LOCAL-00001" summary="little get request with params">
       <created>1626440237291</created>

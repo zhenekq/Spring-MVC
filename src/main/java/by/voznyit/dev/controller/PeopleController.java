@@ -25,11 +25,6 @@ public class PeopleController {
     @GetMapping()
     public String index(Model model){
         model.addAttribute("people", personDAO.index());
-        /*List<Person> personList = personDAO.index();
-        for(int i=0;i<personList.size();i++){
-            System.out.println(personList.get(i).getId());
-            System.out.println(personList.get(i).getName());
-        }*/
         return "people/index";
     }
 
