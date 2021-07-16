@@ -7,19 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0953c75b-1b97-4afa-aa92-0a69c9818fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/SecondController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/voznyit/dev/controller/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/voznyit/dev/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/by/voznyit/dev/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/hello_world.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/index.jsp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,8 +158,16 @@
       <option name="presentableId" value="Default" />
       <updated>1626297571648</updated>
       <workItem from="1626297574442" duration="6436000" />
-      <workItem from="1626437749146" duration="2400000" />
+      <workItem from="1626437749146" duration="3047000" />
     </task>
+    <task id="LOCAL-00001" summary="little get request with params">
+      <created>1626440237291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626440237292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,5 +185,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="little get request with params" />
+    <option name="LAST_COMMIT_MESSAGE" value="little get request with params" />
   </component>
 </project>
